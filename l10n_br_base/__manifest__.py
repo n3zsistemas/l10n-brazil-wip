@@ -15,8 +15,7 @@
         'base_setup',
     ],
     'data': [
-#        'data/l10n_br_base.city.csv',
-#        'data/l10n_br_base_data.xml',
+        'data/l10n_br_base_data.xml',
         'views/l10n_br_base_view.xml',
         'data/sped_pais_data.xml',
         'data/sped_estado_data.xml',
